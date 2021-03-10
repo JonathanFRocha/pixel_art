@@ -1,3 +1,3 @@
-### Pixel Art Project
+## Pixel Art Project
 
-## let your mind run wild
+#### let your mind run wild
