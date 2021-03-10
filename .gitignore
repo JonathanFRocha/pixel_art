@@ -1,3 +1,9 @@
 # VSCode repo settings
 .vscode
+.stylelintrc.json
+.eslintrc.json
+.eslintignore
+cypress
+.trybe
+.github
 node_modules
